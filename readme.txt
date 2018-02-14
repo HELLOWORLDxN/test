@@ -3,3 +3,4 @@ test fuckingmodify
 newline
 abc
 issnewadd
+masteradd
