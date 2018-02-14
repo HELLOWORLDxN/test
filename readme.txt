@@ -1,4 +1,5 @@
-test
+test fuckingmodify
 \nnewlinefork
 newline
 abc
+issnewadd
