@@ -4,3 +4,4 @@ newline
 abc
 issnewadd
 masteradd
+new add
